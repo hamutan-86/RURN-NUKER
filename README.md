@@ -1,2 +1,2 @@
 # 🖼｜ScreenShots
-![sc1](https://github.com/hamutan-86/RURN-NUKER/screenshots/image-25.png)
+![sc1](https://raw.githubusercontent.com/hamutan-86/RURN-NUKER/main/screenshots/Polish_20240525_143256367.png)
